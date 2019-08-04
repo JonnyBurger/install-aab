@@ -1,6 +1,6 @@
 {
   "name": "install-aab",
-  "version": "0.0.0-alpha.2",
+  "version": "0.1.0",
   "description": "Install an aab using adb",
   "main": "index.js",
   "scripts": {
